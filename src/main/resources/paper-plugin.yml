@@ -1,0 +1,4 @@
+name: BeaconTweaks
+version: '${project.version}'
+main: me.ausprinzxp.beacontweaks.BeaconTweaks
+api-version: '1.19'
